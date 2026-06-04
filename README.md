@@ -9,8 +9,11 @@
 
 
 
-NOTE:
-I'm SRINIVASA PRASANNA P G
-I Noticed that there was an github account with my exact same name, below two are my accounts :(
 
-https://github.com/propgsp  and  https://github.com/srinivasaprasanna-vit (Others are not mine)
+
+There are other GitHub accounts using my exact name (**SRINIVASA PRASANNA**). To avoid any confusion, please note that **only** the two accounts listed below are mine:
+
+*   **Primary Account:** [@propgsp](https://github.com/propgsp)
+*   **Academic Account:** [@srinivasaprasanna-vit](https://github.com/srinivasaprasanna-vit)
+
+ **Note:** Any other accounts bearing my name are not managed or owned by me.
