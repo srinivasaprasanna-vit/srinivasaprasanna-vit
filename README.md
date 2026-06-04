@@ -8,4 +8,4 @@
 </p>
 
 
-![](https://streak-stats.demolab.com/?user=srinivasaprasanna-vit&theme=shadow_blue&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=srinivasaprasanna-vit)](https://git.io/streak-stats)
